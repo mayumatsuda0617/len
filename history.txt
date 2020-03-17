@@ -1,0 +1,74 @@
+    1  ls
+    2  git log
+    3  exit
+    4  exit
+    5  ls
+    6  ls
+    7  history
+    8  ls
+    9  cd /
+   10  ls
+   11  cd 
+   12  ls
+   13  cd My\ Documents/
+   14  ls
+   15  cd ..
+   16  ls
+   17  cd Desktop/
+   18  ls
+   19  cd len/
+   20  ls
+   21  git status
+   22  git remote add origin https://github.com/mayumatsuda0617/len.git
+   23  git push -u origin master
+   24  git checkout test-brunch
+   25  git branch -a
+   26  git checkout test branch
+   27  git checkout test-branch
+   28  git status
+   29  git diff len.txt
+   30  git checkout master
+   31  git diff len.txt
+   32  git checkout -f master
+   33  git status
+   34  git checkout test-branch
+   35  ls
+   36  cd .git/
+   37  ls
+   38  vim config
+   39  vim config
+   40  git push origin test-branch
+   41  git branch -a
+   42  git checkout master
+   43  git checkout master
+   44  git checkout origin master
+   45  git status
+   46  cd ..
+   47  ls
+   48  ls -al
+   49  ls
+   50  ls -a
+   51  checkout master branch
+   52  git checkout master
+   53  vim len.txt
+   54  git show
+   55  git diff
+   56  git add len.txt
+   57  git commit
+   58  git push origin master
+   59  git diff
+   60  git show
+   61  git status
+   62  git pull --rebase origin master
+   63  vim len.txt
+   64  vim len.txt
+   65  git commit
+   66  git add len.txt
+   67  git commit 
+   68  git push origin master
+   69  git pull --rebase master
+   70  git pull --rebase origin master
+   71  git log
+   72  git push origin master
+   73  history
+   74  history > history.txt
