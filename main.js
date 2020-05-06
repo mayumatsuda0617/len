@@ -14,3 +14,11 @@ if (a > 10) {
 for (let i = 0; i <50; i++) {
 	console.log(i);
 }
+
+const animals= ['cat','dog','rabbit'];
+
+console.log(animals[0]);
+
+console.log(500);
+
+console.log(700);
